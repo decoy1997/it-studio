@@ -1,0 +1,24 @@
+:root {
+  --main-font: Montserrat, sans-serif;
+
+  --accent-color: #4985ff;
+  --grey-cl: #a1a1a1;
+  --black-cl: #000000;
+
+  --main-txt-cl: #999999;
+  --white-txt-cl: #ffffff;
+  --black-txt-cl: #323232;
+  --accent-txt-cl: #4985ff;
+
+  --main-bg-cl: #ffffff;
+  --primary-bg-cl: #f6f6f8;
+  --accent-bg-cl: linear-gradient(90deg, #504dc2 20%, #5f12d0 80%);
+
+  --border-cl: #e0e0e0;
+
+  /* grid */
+  /* отступ между элементами */
+  --gap: 30px;
+  /* количество элементов в сетке  */
+  --item: 1;
+}

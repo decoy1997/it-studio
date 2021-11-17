@@ -1,0 +1,14 @@
+.btn {
+  display: inline-block;
+  padding: 15px 36px;
+
+  font-weight: 500;
+  line-height: 1.25;
+  color: var(--white-txt-cl);
+
+  background: var(--accent-color);
+  box-shadow: 0px 0px 10px rgba(111, 111, 111, 0.25);
+  border-radius: 30px;
+  border: none;
+  cursor: pointer;
+}

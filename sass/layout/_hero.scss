@@ -1,0 +1,31 @@
+.hero {
+  padding: 220px 0;
+  max-width: 1920px;
+  text-align: center;
+  margin: 0 auto;
+  background-color: #999999;
+  background-image: url(../img/hero/bg-image.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.hero__uptitle {
+  margin-bottom: 20px;
+
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.25;
+}
+
+.hero__title {
+  width: 830px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+
+  font-size: 48px;
+  font-weight: 800;
+  line-height: 1.33;
+}
