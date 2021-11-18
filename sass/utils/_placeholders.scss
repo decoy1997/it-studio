@@ -1,0 +1,12 @@
+%grid {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: calc(var(--gap) * -1);
+  margin-left: calc(var(--gap) * -1);
+  margin-bottom: 100px;
+}
+%grid-item {
+  flex-basis: calc(100% / var(--item) - var(--gap));
+  margin-top: var(--gap);
+  margin-left: var(--gap);
+}

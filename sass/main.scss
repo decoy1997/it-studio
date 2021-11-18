@@ -1,4 +1,6 @@
 @import "./utils/variables";
+@import "./utils/placeholders";
+@import "./utils/mixins.scss";
 @import "./base/common";
 @import "./layout/header";
 @import "./layout/hero";
@@ -10,3 +12,4 @@
 @import "./layout/subscribe";
 @import "./layout/footer";
 @import "./components/button";
+@import "./components/section-title";

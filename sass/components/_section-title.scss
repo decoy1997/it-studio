@@ -1,0 +1,4 @@
+.title {
+  @include font-size(36px, 1.47);
+  @include font-style(700, var(--black-txt-cl));
+}

@@ -1,0 +1,12 @@
+@mixin font-size($fz, $lh) {
+  font-size: $fz;
+  line-height: $lh;
+}
+
+@mixin font-style($fw, $clr, $fs: normal, $td: none, $ls: 0.03em) {
+  font-weight: $fw;
+  color: $clr;
+  font-style: $fs;
+  text-decoration: $td;
+  letter-spacing: $ls;
+}
